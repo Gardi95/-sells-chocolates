@@ -1,0 +1,16 @@
+D:\C# for job\sells chocolates\sells chocolates\bin\Debug\net5.0\sells chocolates.exe
+D:\C# for job\sells chocolates\sells chocolates\bin\Debug\net5.0\sells chocolates.deps.json
+D:\C# for job\sells chocolates\sells chocolates\bin\Debug\net5.0\sells chocolates.runtimeconfig.json
+D:\C# for job\sells chocolates\sells chocolates\bin\Debug\net5.0\sells chocolates.runtimeconfig.dev.json
+D:\C# for job\sells chocolates\sells chocolates\bin\Debug\net5.0\sells chocolates.dll
+D:\C# for job\sells chocolates\sells chocolates\bin\Debug\net5.0\sells chocolates.pdb
+D:\C# for job\sells chocolates\sells chocolates\obj\Debug\net5.0\sells chocolates.csproj.AssemblyReference.cache
+D:\C# for job\sells chocolates\sells chocolates\obj\Debug\net5.0\sells chocolates.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# for job\sells chocolates\sells chocolates\obj\Debug\net5.0\sells chocolates.AssemblyInfoInputs.cache
+D:\C# for job\sells chocolates\sells chocolates\obj\Debug\net5.0\sells chocolates.AssemblyInfo.cs
+D:\C# for job\sells chocolates\sells chocolates\obj\Debug\net5.0\sells chocolates.csproj.CoreCompileInputs.cache
+D:\C# for job\sells chocolates\sells chocolates\obj\Debug\net5.0\sells chocolates.dll
+D:\C# for job\sells chocolates\sells chocolates\obj\Debug\net5.0\refint\sells chocolates.dll
+D:\C# for job\sells chocolates\sells chocolates\obj\Debug\net5.0\sells chocolates.pdb
+D:\C# for job\sells chocolates\sells chocolates\obj\Debug\net5.0\sells chocolates.genruntimeconfig.cache
+D:\C# for job\sells chocolates\sells chocolates\obj\Debug\net5.0\ref\sells chocolates.dll
